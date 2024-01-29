@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yupik"
+		]
+	},
+	"globalblocking-ipaddress": "IP-addrõs:",
+	"globalblocking-search-ip": "IP-addrõs:",
+	"globalblocking-list-unblock": "jaukkâd",
+	"globalblocking-apierror-badip": "IP-addrõs $1 lij vââǥǥlaž"
+}
